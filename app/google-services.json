@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033454082232",
+    "firebase_url": "https://shyampur-f8a71.firebaseio.com",
+    "project_id": "shyampur-f8a71",
+    "storage_bucket": "shyampur-f8a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033454082232:android:56df929ef65d990b8d3c4d",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033454082232-6op06kdrb5087bumj9u30a9hudkmch2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wqA_yQVggdc9lzC9tCjnGJ3B3eV6pxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033454082232-6op06kdrb5087bumj9u30a9hudkmch2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
